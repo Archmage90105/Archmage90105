@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я L 👋</h1>
+<h1 align="center">Привет 👋</h1>
 
 <p align="center">
   Студент и разработчик. Пишу на <b>PHP</b> и <b>Python</b>,
