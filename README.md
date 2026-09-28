@@ -1,8 +1,7 @@
-<h1 align="center">Привет 👋</h1>
-
 <p align="center">
-  Студент и разработчик. Пишу на <b>PHP</b> и <b>Python</b>,
-  делаю веб-приложения. Интересуюсь автоматизацией и сетевыми проектами.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Студент+и+разработчик;Пишу+на+PHP+и+Python;Делаю+веб-приложения;Интересуюсь+автоматизацией+и+сетями" alt="Typing SVG" />
+  </a>
 </p>
 
 ###
