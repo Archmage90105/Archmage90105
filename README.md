@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Студент+и+разработчик;Пишу+на+PHP+и+Python;Делаю+веб-приложения;Интересуюсь+автоматизацией+и+сетями" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%B8+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%9F%D0%B8%D1%88%D1%83+%D0%BD%D0%B0+PHP+%D0%B8+Python;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D1%8E%D1%81%D1%8C+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B5%D0%B9+%D0%B8+%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8" alt="Typing SVG" />
   </a>
 </p>
 
-###
+<h3 align="center">💻 Языки и технологии</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
@@ -20,7 +20,9 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
 </div>
 
-###
+<br>
+
+<h3 align="center">🛠️ Инструменты и окружение</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
@@ -31,27 +33,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
-</div>
-
-<h3 align="center">🛠️ Инструменты и технологии</h3>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
 </div>
+
+<br>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/1С-FFD700?style=for-the-badge&logo=1c&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
-
 
 <!--###
 
