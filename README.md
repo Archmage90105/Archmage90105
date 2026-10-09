@@ -28,11 +28,11 @@
 
 <h3 align="center">🔥 Проекты</h3>
 <p align="center">
-  <a href="https://github.com/Archmage90105/profkom">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Archmage90105&repo=profkom&theme=bear&hide_border=true" alt="profkom" />
-  </a>
   <a href="https://github.com/Archmage90105/2K1">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Archmage90105&repo=2K1&theme=bear&hide_border=true" alt="2K1" />
+  </a>
+  <a href="https://github.com/Archmage90105/profkom">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Archmage90105&repo=profkom&theme=bear&hide_border=true" alt="profkom" />
   </a>
 </p>
 
