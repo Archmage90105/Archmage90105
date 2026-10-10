@@ -27,22 +27,32 @@
 </p>
 
 <h3 align="center">🔥 Проекты</h3>
-<p align="center">
-  <a href="https://github.com/Archmage90105/2K1">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Archmage90105&repo=2K1&theme=bear&hide_border=true" alt="2K1" />
-  </a>
-  <a href="https://github.com/Archmage90105/profkom">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Archmage90105&repo=profkom&theme=bear&hide_border=true" alt="profkom" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Archmage90105/2K1">
+        <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Archmage90105&repo=2K1&theme=bear&hide_border=true" alt="2K1" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Archmage90105/profkom">
+        <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Archmage90105&repo=profkom&theme=bear&hide_border=true" alt="profkom" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">📊 Статистика</h3>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Archmage90105&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Archmage90105&theme=bear&hide_border=true&locale=ru&layout=compact" alt="Top languages" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Archmage90105&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru&card_width=400" alt="GitHub stats" />
+    </td>
+    <td valign="top">
+      <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Archmage90105&theme=bear&hide_border=true&locale=ru&layout=compact&card_width=400" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
